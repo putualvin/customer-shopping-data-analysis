@@ -1,6 +1,7 @@
 # Customer Shopping Data Analysis
 
 ## About
+Hi everyone! In this project I conducted analysis on customer shopping data of malls in Turkey. In this project I conducted several analysis including EDA and visualization of the data
 
 ## Tools
 - Python
